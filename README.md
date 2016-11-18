@@ -1,4 +1,4 @@
-# Metodologia_programacion
+# Metodologia de la Programacion
 
 ### Juan Manuel Castillo Nievas
 ### Álvaro Fernández García
